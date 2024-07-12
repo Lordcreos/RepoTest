@@ -1,4 +1,4 @@
-## repo-bp-frontend-test
+## Bp-FrontendTest
 
     Crud servicios financieros listados para Test frontend
 
@@ -44,7 +44,6 @@ Correr los Test de la aplicacion
 
 
 ## Importante
-## repo-interview-main
 
     Asegurarse de correr el  servidor backend ubicado en la carpeta repo-interview-main para acceder a los datos
 
