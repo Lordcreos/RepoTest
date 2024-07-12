@@ -1,0 +1,16 @@
+.main-list { 
+    margin: 3rem 0;
+    padding: 0 3rem;
+  }
+  
+  .actions-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .data-container {
+    background-color: #fff;
+    margin-top: 1.5rem;
+    padding: 1rem;
+    overflow: auto; 
+  }

@@ -1,0 +1,23 @@
+.primary-button,
+.secondary-button{
+  border: none;
+  border-radius: .3rem;
+  cursor: pointer;
+  font-weight: bold;
+  padding: .7rem 1.5rem;
+  color: #0F265C;
+}
+
+.primary-button {
+  background-color: #F9DE4B;
+}
+
+.secondary-button {
+  background-color: #E9ECF3;
+  margin-right: 3rem;
+}
+
+
+.disabled-button {
+  opacity: 50%;
+}

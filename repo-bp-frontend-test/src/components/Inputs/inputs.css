@@ -1,0 +1,36 @@
+.input-search {
+    width: 10rem;
+    background-color: #FFF;
+    border: 1px solid #c1c1c1;
+    border-radius: .5rem;
+    padding: .5rem;
+    padding-right: 3rem;
+    text-align: left;
+  }
+
+.form-input label {
+    font-weight: 500;
+    margin-bottom: .3rem;
+    text-align: left;
+    color: #888;
+  }
+
+.input-error { border: 1px solid #f94747 !important; }
+  
+.invalid {
+    color: #f94747;
+    font-weight: 500;
+    margin-top: -.5rem;
+    text-align: left;
+  }
+
+  .form-input input  {
+    border-radius: .2rem;
+    border: 1px solid #dddddd;
+    flex: 1;
+    height: 1.5rem;
+    margin-bottom: .5rem;
+    max-height: 1.5rem;
+    min-height: 1.5rem;
+    padding: .3rem 1rem;
+  }
